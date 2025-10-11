@@ -1,0 +1,13 @@
+{
+  "routes": {
+    "/E-commers": {},
+    "/E-commers/brands": {},
+    "/E-commers/cart": {},
+    "/E-commers/categories": {},
+    "/E-commers/forget-password": {},
+    "/E-commers/home": {},
+    "/E-commers/login": {},
+    "/E-commers/products": {},
+    "/E-commers/register": {}
+  }
+}
