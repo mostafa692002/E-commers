@@ -1,0 +1,1 @@
+import{Qb as a,Za as o,wb as s,xb as r}from"./chunk-OJ534RAZ.js";import"./chunk-4CLCTAJ7.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-forget-password"]],decls:2,vars:0,template:function(e,i){e&1&&(s(0,"p"),a(1,"forget-password works!"),r())},encapsulation:2})};export{n as ForgetPassword};
